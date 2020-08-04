@@ -1,0 +1,59 @@
+*{
+    background-color: purple;
+    font-family: 'Recursive', sans-serif;
+    margin-left:20px;
+    margin-top: 20px;
+}
+
+.title{
+    
+    font-weight: 500;
+    color: white;
+    font-size: 48px;
+
+}
+
+.scr{
+    background-color: white;
+    height: 80px;
+    width: 420px;
+    border-radius: 5%;
+}
+
+input[type="text"]{
+    font-weight: 400;
+    color: black;
+    font-size: 40px;
+    background: none;
+    border: none;
+    width: 380px;
+    margin: 0px;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 60px;
+    border-radius: 5%;
+    padding: 2px;
+
+}
+
+input[type="button"]{
+    background-color: yellow;
+    border: none;
+    font-size: 40px;
+    font-weight: 400;
+    height: 80px;
+    width: 80px;
+    margin: 0px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5%
+
+
+}
+
+#last{
+    width:363px;
+    margin-left: 3px;
+    background-color: greenyellow;
+    margin-left: 0px;
+}
