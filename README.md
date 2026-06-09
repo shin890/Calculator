@@ -2,6 +2,10 @@
 
 A simple browser-based calculator built while learning JavaScript. It uses plain HTML, CSS, and JavaScript to handle basic arithmetic operations in a small, colorful interface.
 
+## Live Demo
+
+[View the calculator](https://shin890.github.io/Calculator/)
+
 ## Features
 
 - Add, subtract, multiply, and divide numbers
